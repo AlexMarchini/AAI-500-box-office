@@ -1,5 +1,8 @@
 # Don't commit large data files
 tmdb_5000_*
+cleaned_movie_data*
+
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
